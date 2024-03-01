@@ -1,3 +1,5 @@
+# THIS IS A COPY of [ChiENN](https://github.com/gmum/ChiENN) that we made pip installable for a journal article's Code Ocean reproducibility purposes
+
 # ChiENN: Embracing Molecular Chirality with Graph Neural Networks
 
 This repository contains the code for the paper [ChiENN: Embracing Molecular Chirality with Graph Neural Networks](https://arxiv.org/abs/2307.02198) by Piotr Gaiński, Michał Koziarski, Jacek Tabor, Marek Śmieja. The repository contains two modules:
